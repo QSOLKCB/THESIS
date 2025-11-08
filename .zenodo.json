@@ -2,7 +2,7 @@
   "title": "The E8 Fractal Cosmology Model: A Comprehensive Thesis on Vibrational Field Theory, Golden-Ratio Scaling, and Unified Cosmological Phenomena",
   "upload_type": "software",
   "publication_type": "thesis",
-  "description": "This repository contains the LaTeX source, figures, datasets and scripts for the E8 Fractal Cosmology Model by Trent Slade (QSOL IMC). The model introduces a unified cosmological framework featuring an E8-symmetric scalar field (“Magnetium”) with golden‐ratio (φ ≈ 1.618) fractal scaling, which drives galactic and cosmological observables including dark matter, dark energy, rotation curves, gravitational waves, supermassive black hole scaling, quantum information analogies and archaeoacoustic resonance phenomena.",
+  "description": "This repository contains the LaTeX source, figures, datasets and scripts for the E8 Fractal Cosmology Model by Trent Slade (QSOL IMC). The model introduces a unified cosmological framework featuring an E8-symmetric scalar field (“Magnetium”) with golden-ratio (φ ≈ 1.618) fractal scaling, which drives galactic and cosmological observables including dark matter, dark energy, rotation curves, gravitational waves, supermassive black hole scaling, quantum information analogies and archaeoacoustic resonance phenomena.",
   "creators": [
     {
       "name": "Slade, Trent",
@@ -22,5 +22,6 @@
     "Vibrational field theory"
   ],
   "version": "1.0.0",
+  "doi": "10.5281/zenodo.17559466",
   "language": "en"
 }
