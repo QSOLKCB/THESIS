@@ -1,0 +1,38 @@
+{
+  "title": "The E8 Fractal Cosmology Model: A Comprehensive Thesis on Vibrational Field Theory, Golden-Ratio Scaling, and Unified Cosmological Phenomena",
+  "upload_type": "publication",
+  "publication_type": "thesis",
+  "description": "This repository contains the LaTeX source, data, and figures for the E8 Fractal Cosmology Model by Trent Slade (QSOL IMC). It integrates E8 symmetry, φ-scaling, and quantum information principles into a unified cosmological framework.",
+  "creators": [
+    {
+      "name": "Slade, Trent",
+      "affiliation": "QSOL IMC / LostSound Technologies",
+      "orcid": "0009-0002-4515-9237"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "E8 symmetry",
+    "Fractal cosmology",
+    "Quantum information",
+    "Unified field theory",
+    "Golden ratio",
+    "Dark matter",
+    "Dark energy",
+    "QSOL IMC"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17510648",
+      "relation": "isPartOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/QSOLKCB/QEC",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open",
+  "language": "en"
+}
